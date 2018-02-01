@@ -4,7 +4,6 @@ First Homework
 ---------------------
 Name : Shmuel 
 Last Name : Uzan
-ID : 302995089 
 Campus : Beer Shave
 ---------------------
  */
