@@ -1,10 +1,8 @@
 /*
 Software Security
-First Homework
 ---------------------
 Name : Shmuel 
 Last Name : Uzan
-Campus : Beer Shave
 ---------------------
  */
 package softwaresecurity;
